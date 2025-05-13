@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1746640844 source:c:\github\musicplayer\reproductor de musica\animaciones.cpp
+	"Animaciones.h"
+	"windows.h"
+	<ctime>
+	<vector>
+
+1746640844 c:\github\musicplayer\reproductor de musica\animaciones.h
+	"ListaCircular.h"
+	"Cancion.h"
+	"windows.h"
+
+1746760324 c:\github\musicplayer\reproductor de musica\listacircular.h
+	<iostream>
+	"Cancion.h"
+
+1746640844 c:\github\musicplayer\reproductor de musica\cancion.h
+	<string>
+
+1746640844 source:c:\github\musicplayer\reproductor de musica\cancion.cpp
+	"Cancion.h"
+	<string>
+	<iostream>
+
+1746760307 source:c:\github\musicplayer\reproductor de musica\listacircular.cpp
+	"ListaCircular.h"
+	"Cancion.h"
+	"Animaciones.h"
+	"windows.h"
+	<iostream>
+	"conio.h"
+
+1746760324 source:c:\github\musicplayer\reproductor de musica\main.cpp
+	<iostream>
+	<conio.h>
+	"windows.h"
+	<chrono>
+	<fstream>
+	<vector>
+	<ctime>
+	"stdlib.h"
+	"Cancion.h"
+	"ListaCircular.h"
+	"Animaciones.h"
+

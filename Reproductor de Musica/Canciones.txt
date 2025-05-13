@@ -5,10 +5,31 @@ Sinfonico
 ./canciones/champions.wav
 1
 0
-Abcdefg
-Rosalia
-Motomami
-Pop
-./canciones/abcdefg.wav
-1
-6
+me hace falta
+siddhartha
+memoria futuro
+pop
+./canciones/me hace falta.wav
+3
+46
+viento
+caifanes
+1975
+rock{
+./canciones/viento.wav
+3
+57
+your love
+the outfield
+quien sabe
+rock
+./canciones/your love.wav
+3
+58
+volcan 
+jose jose 
+nose 
+baladas
+./canciones/volcan.wav
+3
+25
